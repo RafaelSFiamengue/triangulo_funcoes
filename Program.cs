@@ -2,7 +2,7 @@
 using System;
 //Biblioteca geral global
 using System.Globalization;
-
+//Biblioteca
 namespace Courses
 {
     //Cria a classe do programa
@@ -42,7 +42,7 @@ namespace Courses
         //Cria a função que vai ler as medidas dos triangulos
         public static double[] LerMedidasTriangulo(string nomeTriangulo)
         {
-            //
+            //Limita o array para 3
             double[] medidas = new double[3];
 
             //Pede para o usuário colocar 3 medidas para cada triangulo
