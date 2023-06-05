@@ -35,8 +35,7 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
-
+Calcula a area de dois triangulos pelo uso de função
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
 
@@ -50,16 +49,13 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 Link para teste da versão disponibilizada.
 
 ## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
 Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+- Micorsoft Visual Studio Community 2022
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
-
+Basta copiar o codigo e colar no Micorsoft Visual Studio Community 2022 ou no Programiz
 ## Testes realizados
-Utilização de imagens e descrição do qeu foi testado.
+Todos os testes foram realizados
 
 ## Banco de Dados 🗂️
 Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
@@ -72,21 +68,14 @@ XML
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 
 ## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+Todos os problemas foram resolvidos
 
 ## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
-
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
+Tudo foi inserido no programa
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
-
+Rafael Silva Fiamengue
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ Ano - Triangulo com funções
